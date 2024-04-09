@@ -12,7 +12,7 @@
     ![image](./screenshots/create_parameter.png)
 
     ```
-    # paste this snippet code into "value" 
+    # paste this snippet code into the box "value" 
 
     {
         "metrics": {
@@ -38,7 +38,7 @@
     ```
 
 
-3. Launch an `Amazon Linux 2 instance` and attach the role you created to it
+3. Launch an `Amazon Linux 2 instance` and attach the role you created 
 
     ![image](./screenshots/attach_role.png)
 
